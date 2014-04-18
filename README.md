@@ -21,10 +21,10 @@ Or install it yourself as:
 To use the gem on a string, call `read_time_words` on it.
 
 Example:
-`some_string.read_time_words`
+`some_string.time_to_read`
 
 will output
-`2 minutes and 30 seconds to read`
+`2 minutes`
 
 ## Contributing
 
